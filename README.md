@@ -1,4 +1,4 @@
-Hello! I'm Nick, currently a third-year student at Northeastern University. Please feel free to reach out to me!
+Hello! I'm Nick, currently a fourth-year student at Northeastern University. Please feel free to reach out to me!
 
 <!---
 ntietje1/ntietje1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
