@@ -1,6 +1,6 @@
 Hello! I'm Nick, currently a fourth-year student at Northeastern University. Please feel free to reach out to me!
 
-![](https://komarev.com/ghpvc/?username=ntietje1&style=flat&base=850&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=ntietje1&style=flat&base=100&color=blueviolet)
 
 ![](https://raw.githubusercontent.com/ntietje1/github-stats-transparent/output/generated/languages.svg)
 ![](https://raw.githubusercontent.com/ntietje1/github-stats-transparent/output/generated/overview.svg)
