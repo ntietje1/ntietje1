@@ -1,6 +1,11 @@
-Hello! I'm Nick, currently a fourth-year student at Northeastern University. Please feel free to reach out to me!
+# Hi Fellow Devs 👾
 
-![](https://komarev.com/ghpvc/?username=ntietje1&style=flat&base=100&color=blueviolet)
+I'm Nick, a **Software Engineering Intern** at [State Street](https://www.statestreet.com/us/en/asset-manager) and a fourth-year student at **Northeastern University**. Please find me on [LinkedIn](https://www.linkedin.com/in/nicholas-tietje/) for a more detailed description of my work experience, education and certification. You can get in touch with me by email at [tietje.n@northeastern.edu](mailto:tietje.n@northeastern.edu).
+
+## What I'm working on right now 🎯
+- Practicing Vim shortcuts
+- Learning various AWS services
+- Applying to summer 2025 internships
 
 ![](https://raw.githubusercontent.com/ntietje1/github-stats-transparent/output/generated/languages.svg)
 ![](https://raw.githubusercontent.com/ntietje1/github-stats-transparent/output/generated/overview.svg)
