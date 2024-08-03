@@ -7,6 +7,12 @@ I'm Nick, a **Software Engineering Intern** at [State Street](https://www.states
 - Learning various AWS services
 - Applying to summer 2025 internships
 
+## Where to find me
+- [LinkedIn](https://www.linkedin.com/in/nicholas-tietje/)
+- [Email](mailto:tietje.n@northeastern.edu)
+- [App Store](https://apps.apple.com/us/developer/nicholas-tietje/id1750037108)
+- [Google Play](https://play.google.com/store/apps/dev?id=5145592104840101423)
+
 ![](https://raw.githubusercontent.com/ntietje1/github-stats-transparent/output/generated/languages.svg)
 ![](https://raw.githubusercontent.com/ntietje1/github-stats-transparent/output/generated/overview.svg)
 
