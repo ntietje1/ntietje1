@@ -59,6 +59,7 @@ I'm Nick, a **Software Engineering Intern** at [**State Street**](https://www.st
 [![Email](https://custom-icon-badges.demolab.com/badge/-tietje.n@northeastern.edu-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:tietje.n@northeastern.edu)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/nicholas-tietje/id1750037108)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5145592104840101423)
+[![Repos](https://custom-icon-badges.demolab.com/badge/-My%20Repos-violet?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/ntietje1?tab=repositories)
 
 ![](https://raw.githubusercontent.com/ntietje1/github-stats-transparent/output/generated/languages.svg)
 ![](https://raw.githubusercontent.com/ntietje1/github-stats-transparent/output/generated/overview.svg)
