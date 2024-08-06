@@ -56,7 +56,7 @@ I'm Nick, a **Software Engineering Intern** at [**State Street**](https://www.st
 
 ## Where to find me 👀
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-tietje/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tietje.n@northeastern.edu)
+[![Email](https://custom-icon-badges.demolab.com/badge/-tietje.n@northeastern.edu-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:tietje.n@northeastern.edu)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/nicholas-tietje/id1750037108)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5145592104840101423)
 
