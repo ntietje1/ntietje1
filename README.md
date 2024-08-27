@@ -4,6 +4,7 @@ I'm Nick, a **Software Engineering Intern** at [**State Street**](https://www.st
 
 ## What I'm working on right now 🎯
 - Practicing Vim shortcuts
+- Automating the build and deployment of my resume
 - Updating & maintaining [**LifeLinked**](https://github.com/ntietje1/MTG_Life_Total_App)
 - Applying to summer 2025 internships
 
