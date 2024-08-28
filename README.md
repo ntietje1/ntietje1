@@ -2,9 +2,10 @@
 
 I'm Nick, a **Software Engineering Intern** at [**State Street**](https://www.statestreet.com/us/en/asset-manager) and a fourth-year student at [**Northeastern University**](https://www.northeastern.edu/). Please find me on [**LinkedIn**](https://www.linkedin.com/in/nicholas-tietje/) for a more detailed description of my work experience and education. You can get in touch with me by email at [**tietje.n@northeastern.edu**](mailto:tietje.n@northeastern.edu).
 
+You can view [**my resume**](https://tietje-resume-bucket.s3.amazonaws.com/Nicholas_Tietje_Resume.pdf) online!
+
 ## What I'm working on right now 🎯
 - Practicing Vim shortcuts
-- Automating the build and deployment of my resume
 - Updating & maintaining [**LifeLinked**](https://github.com/ntietje1/MTG_Life_Total_App)
 - Applying to summer 2025 internships
 
