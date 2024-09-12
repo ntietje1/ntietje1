@@ -5,7 +5,7 @@ I'm Nick, a **Software Engineering Intern** at [**State Street**](https://www.st
 You can view [**my resume**](https://tietje-resume-bucket.s3.amazonaws.com/Nicholas_Tietje_Resume.pdf) online!
 
 ## What I'm working on right now 🎯
-- Practicing Vim shortcuts
+- Practicing Vim motions
 - Updating & maintaining [**LifeLinked**](https://github.com/ntietje1/MTG_Life_Total_App)
 - Applying to summer 2025 internships
 
