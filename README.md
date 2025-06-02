@@ -1,6 +1,6 @@
 # Hello Fellow Devs 👾
 
-I'm Nick, a **Software Engineering Intern** at [**State Street**](https://www.statestreet.com/us/en/asset-manager) and a fourth-year student at [**Northeastern University**](https://www.northeastern.edu/). Please find me on [**LinkedIn**](https://www.linkedin.com/in/nicholas-tietje/) for a more detailed description of my work experience and education. You can get in touch with me by email at [**tietje.n@northeastern.edu**](mailto:tietje.n@northeastern.edu).
+I'm Nick, a **Software Engineering Intern** at [**Fidelity Investments**](https://www.fidelity.com/) and an incoming Master's student at [**Northeastern University**](https://www.northeastern.edu/). Please find me on [**LinkedIn**](https://www.linkedin.com/in/nicholas-tietje/) for a more detailed description of my work experience and education. You can get in touch with me by email at [**tietje.n@northeastern.edu**](mailto:tietje.n@northeastern.edu).
 
 Go checkout my [**brand new website**](https://www.nicktietje.com)!! (WIP)
 
@@ -9,7 +9,7 @@ You can also view [**my resume**](https://tietje-resume-bucket.s3.amazonaws.com/
 ## What I'm working on right now 🎯
 - Practicing Vim motions
 - Updating & maintaining [**LifeLinked**](https://github.com/ntietje1/MTG_Life_Total_App)
-- Applying to summer 2025 internships
+- Learning how to use a mac 😭
 
 ## Technologies I love ❤️
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -18,10 +18,8 @@ You can also view [**my resume**](https://tietje-resume-bucket.s3.amazonaws.com/
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## Technologies I know 🚀
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
@@ -30,6 +28,7 @@ You can also view [**my resume**](https://tietje-resume-bucket.s3.amazonaws.com/
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -39,8 +38,6 @@ You can also view [**my resume**](https://tietje-resume-bucket.s3.amazonaws.com/
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=Amazon-RDS&logoColor=white)
@@ -52,7 +49,7 @@ You can also view [**my resume**](https://tietje-resume-bucket.s3.amazonaws.com/
 ## Technologies I want to learn 🏋️‍♂️
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 
@@ -65,8 +62,3 @@ You can also view [**my resume**](https://tietje-resume-bucket.s3.amazonaws.com/
 
 ![](https://raw.githubusercontent.com/ntietje1/github-stats-transparent/output/generated/languages.svg)
 ![](https://raw.githubusercontent.com/ntietje1/github-stats-transparent/output/generated/overview.svg)
-
-<!---
-ntietje1/ntietje1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
