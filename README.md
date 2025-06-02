@@ -54,6 +54,7 @@ You can also view [**my resume**](https://tietje-resume-bucket.s3.amazonaws.com/
 
 
 ## Where to find me 👀
+[![My Website](https://custom-icon-badges.demolab.com/badge/-My%20Website-purple?style=for-the-badge&logoColor=white&logo=globe)](https://github.com/ntietje1?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-tietje/)
 [![Email](https://custom-icon-badges.demolab.com/badge/-tietje.n@northeastern.edu-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:tietje.n@northeastern.edu)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/nicholas-tietje/id1750037108)
